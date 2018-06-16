@@ -1,4 +1,15 @@
-## Welcome to GitHub Pages
+## Poznaj mnie
+
+### Ulubione narzedzia testerskie:
+- Selenium
+- Appium
+- Jira
+- Docker
+
+Studiowałem na kierunku:
+[Poznaj mój kierunek](https://www.wsb.pl/)
+
+
 
 You can use the [editor on GitHub](https://github.com/slawekggg/super_interaktywne_CV/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
