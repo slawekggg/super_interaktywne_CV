@@ -16,7 +16,7 @@ Studiowałem na kierunku:
 
 ---
 
-| Tables        | Are           | Cool  | | YES  |
+| Tables        | Are           | Cool  | |  YES  |
 | ------------- |-------------  | ----- | | ----- |
 | col 3 is      | right-aligned | $1600 | | test  |
 | col 2 is      | centered      |   $12 | | test2 |
