@@ -16,10 +16,10 @@ Studiowałem na kierunku:
 
 ---
 
-| Tables        | Are           | Cool  |
-| ------------- |-------------  | ----- |
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Tables        | Are           | Cool  | | YES  |
+| ------------- |-------------  | ----- | | ----- |
+| col 3 is      | right-aligned | $1600 | | test  |
+| col 2 is      | centered      |   $12 | | test2 |
+| zebra stripes | are neat      |    $1 | | test3 |
 
 
