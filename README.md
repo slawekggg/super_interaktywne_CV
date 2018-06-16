@@ -12,7 +12,7 @@ Studiowałem na kierunku:
 [Poznaj mój kierunek](https://www.wsb.pl/)
 
 
-[![EKIPA](https://i.ytimg.com/vi/0fXdbvve4Ys/hqdefault.jpg?sqp=-oaymwEWCNIBEHZIWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLD5f3e4xkcTRpRohgR57pXDf3588w)](https://www.youtube.com/watch?v=0fXdbvve4Ys)
+[![EKIPA](https://i.ytimg.com/vi/Bh8U19RB5nI/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDzcWkwDEKb6o5MO6Hj0gXfTG8yBg)](https://www.youtube.com/watch?v=Bh8U19RB5nI)
 
 
 
